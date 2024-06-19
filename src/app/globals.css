@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+section {
+	@apply py-10 md:py-16 lg:px-20 px-5;
+}
+
+.container {
+	@apply mx-auto;
+}
+
+.row {
+	@apply max-w-6xl mx-auto;
+}
+
+.sectionTitle {
+	@apply text-xl sm:text-3xl font-bold !leading-6;
+}
