@@ -83,10 +83,20 @@ export default function Header() {
                 <div className="flex justify-center items-center flex-shrink-0 max-w-[240px] md:max-w-[300px]">
                   <Link
                     href="/"
-                    className="cursor-pointer max-w-[26rem] md:max-w-[28rem] text-brand-100 "
+                    className="cursor-pointer max-w-[26rem] md:max-w-[28rem] text-brand-100 flex items-center"
                   >
                     <Icone />
+                    <div className="ml-2 flex flex-col text-center">
+                      <span className="md:text-3xl text-xl font-bold">
+                        Tecno
+                        <span className="text-brand-200">
+                          Auto
+                        </span>
+                      </span>
+                      <span className="md:text-lg text-sm font-semibold">Automação</span>
+                    </div>
                   </Link>
+
                 </div>
                 <div className="hidden mr-5 lg:flex flex-nowrap items-center">
                   <Scroll
