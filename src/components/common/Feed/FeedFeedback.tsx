@@ -20,14 +20,14 @@ export default function FeedFeedback() {
                             <div className="flex items-center mb-5">
                                 <div className="border-2 border-[#FFB100] w-10"></div>
                                 <p className="text-brand-300 mx-2">
-                                    SOME FEEDBACK
+                                    Confira nossos depoimentos
                                 </p>
                             </div>
                             <h1 className="text-brand-100 text-3xl mb-5 font-bold">
-                                We Are Trusted Over 12+ Countries Worldwide
+                                O Que Nossos Clientes Dizem
                             </h1>
                             <p className="text-brand-300 mb-5">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget tortor risus. Nulla porttitor accumsan tincidunt. Nulla quis lorem ut libero malesuada feugiat.
+                                Estamos orgulhosos do serviço que oferecemos e acreditamos que nossos clientes são a melhor prova disso. Leia abaixo o que nossos clientes têm a dizer sobre suas experiências conosco. Seus comentários e avaliações são fundamentais para continuarmos aprimorando nossos serviços.
                             </p>
                         </div>
                         <div>
